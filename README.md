@@ -1,5 +1,9 @@
 # Template for Isaac Lab Projects
+<<<<<<< HEAD
 ## test1
+=======
+
+>>>>>>> 9347a75d9aac7e4f0f76071a30a0f28a7118f834
 ## Overview
 
 This project/repository serves as a template for building projects or extensions based on Isaac Lab.
